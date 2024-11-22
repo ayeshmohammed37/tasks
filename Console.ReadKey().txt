@@ -1,0 +1,29 @@
+Console.ReadKey() Method makes the program wait for a key press and it prevents the screen until a key is pressed. In short, it obtains the next character or any key pressed by the user. The pressed key is displayed in the console window(if any input process will happen). 
+
+example:
+
+using System; 
+   
+// Main Method 
+static void Main(){
+	int c = 0; 
+        Console.WriteLine("The series is:"); 
+  
+        for (int i = 1; i < 10; i++)  
+        { 
+            c = c + i; 
+            Console.Write(c + " "); 
+        } 
+  
+        Console.WriteLine("\npress any key to exit the process..."); 
+      
+        // basic use of "Console.ReadKey()" method 
+        Console.ReadKey(); 
+          
+    } 
+} 
+
+
+
+
+								

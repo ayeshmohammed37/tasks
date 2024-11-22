@@ -1,0 +1,2 @@
+A solution is like a house, a project like a room. Each room provides a piece of functionality whereas the house, a container of rooms, provides the means to link the rooms together and organize them appropriately.
+so solution is a container for one or more related projects.

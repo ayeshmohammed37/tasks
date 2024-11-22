@@ -1,0 +1,15 @@
+using system;
+
+class Program 
+{
+	static void Main() 
+	{
+		console.writeline("hello, world!");
+	}
+}
+
+
+in this code system is collection of class and functions that we need to use them but for simplicity
+we grouped them in one file called system and using this file we can access to all of these methods
+and that's what we called namespace.
+so namespaces are used to organize our code and make life more easy for developers
